@@ -1,2 +1,2 @@
 # Python-Daily-Project
-Sementara Masih Kosong
+My daily simple python project 😁
